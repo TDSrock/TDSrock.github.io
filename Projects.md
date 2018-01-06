@@ -25,7 +25,7 @@ Due to the orginal version of Elementalers having been built in Processing I was
 
 No public repo for this project is currently avaible.
 
-# [](#header-1)Notable Completed projects
+# [](#header-1)Note-able Completed projects
 #### [](#header-4) Elementalers_TD (Processing)
 This was an extremely fun project. We built a fully working tower defense with pathfinding implemented in it.
 Myself and Jan *lastnamehere* were the main contributors to the code base. Most I was responsible for several of parts of the game functions.
@@ -33,14 +33,10 @@ Most proudly the Path finding implementation (A*), combination mechanic and the 
 
 Sadly said event system was made before I was aware of the observer pattern so the implementation is a bit shody but thats okay becuase it worked!
 
-![](https://i.imgur.com/eqx81A3.png)
-Image of the title screen
-
-![](https://i.imgur.com/IpxfExw.jpg)
-In-game before enemy spawn
-
 ![](https://i.imgur.com/J9XPKC2.jpg)
 In-game during a wave
+
+view the Elemantalers_TD (Processing) page [HERE](https://tdsrock.github.io/Elementalers_TD_Year1_SchoolProject/).
 
 # [](#header-1)Projects table
 
