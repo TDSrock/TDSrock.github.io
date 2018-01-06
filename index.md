@@ -14,9 +14,9 @@ If you are intrested in seeing an overview of all the downloadables on this site
 
 For more information from my HvA education go to this site's [HvA education](HvA-educ) page.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| head1        | head two          | three | four |
+|:-------------|:------------------|:------|:------|
+| ok           | [good swedish fish](somewhere) | nice  | |
+| out of stock | good and plenty   | nice  | |
+| ok           | good `oreos`      | hmm   | |
+| ok           | good `zoute` drop | yumm  | |
