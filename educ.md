@@ -4,7 +4,7 @@ I've spent one school year at the University of Utrecht. Ultimatly I failed to c
 
 # [](#header-1)HvA education
 
-This page is mainly inteded to contain downlod links and information from the portfolio presentation requirements.
+This page is mainly inteded to contain download links and information from the portfolio presentation requirements.
 
 [Competentie ontwikkel Plan](Docs/cop_Sjors_Gielen.pdf)
 
