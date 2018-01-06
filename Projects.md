@@ -52,7 +52,7 @@ In-game during a wave
 | HvA_Year2 (Classes)          | [Yes](https://tdsrock.github.io/HvA_Year2/)                            | In progress                      | For use on all subjects in year two of my HBO education                                                |
 | Univeristy_work_2015-2016    | [Yes](https://tdsrock.github.io/Univeristy_work_2015-2016/)            | Completed                        | A repo containing all the work I put into my first year of uni                                         |
 | COG website                  | [Yes](https://tdsrock.github.io/COG_website/)                          | Completed and decrepit           | Website built for a Austrelian based community, the website is no longer activly being maintained/used |
-| Berzerk                      | No                                                                     | Completed                        | First university project. Remake of the old Berzerk arcade game in 3D, With custom render engine!      |
+| Berzerk                      | No                                                                     | Completed                        | First university project. Remake of the old Berzerk arcade game in 3D, built in XNA                    |
 | Elementalers TD Remake       | Yes, but private                                                       | In progress                      | A remake of the processing version. But will feature more towers & maps, atleast                       |
 
 More projects can always be added too this list.
