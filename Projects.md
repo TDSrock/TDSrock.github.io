@@ -6,7 +6,7 @@ layout: default
 
 On this page you will be able to find links to all my projects. For ease of use these projects are split up in github based projects and non-github based projects.
 
-# [](#header-1)Notable active projects
+# [](#header-1)Active projects
 #### [](#header-4)Summer Game Project
 
 A project I started with several friends from Univeristy and college. But even including some Australian friends.
@@ -19,6 +19,11 @@ The github repo is currently private and will remain so untill we are further in
 A school project in which my team decided to create a horror game taking large inspiration from [PT](https://en.wikipedia.org/wiki/P.T._(video_game)) released on the playstation store several years ago.
 
 The project is still underway and has seen some crazy shifts and turns within the team. Not stuff I am proud of, but still a great moment to learn from.
+
+#### [](#header-4)Elemantalers TD (Rework)
+Due to the orginal version of Elementalers having been built in Processing I was forcibly limited in allot of ways. I intend to remake the game alone in C# either using XNA or Unity as a base. The project has seen some developemnt in XNA already but I may decide to opt for unity instead at a later date.
+
+No public repo for this project is currently avaible.
 
 # [](#header-1)Notable Completed projects
 #### [](#header-4) Elementalers_TD (Processing)
@@ -47,4 +52,5 @@ In-game during a wave
 | Univeristy_work_2015-2016    | [Yes](https://tdsrock.github.io/Univeristy_work_2015-2016/)            | Completed                        | A repo containing all the work I put into my first year of uni                                         |
 | COG website                  | [Yes](https://tdsrock.github.io/COG_website/)                          | Completed and decrepit           | Website built for a Austrelian based community, the website is no longer activly being maintained/used |
 | Berzerk                      | No                                                                     | Completed                        | First university project. Remake of the old Berzerk arcade game in 3D (With custom render engine!)     |
-| More will be added here |
+
+More projects can always be added too this list.
