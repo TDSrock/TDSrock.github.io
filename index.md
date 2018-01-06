@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Welcome to the main page of my Protfolio website hosted on via Github pages!
+Welcome to the main page of my Portfolio website hosted on via Github pages!
 
 My name is Sjors "TDS" Gielen, I've been a long time gamer and have been programming ever since 2013.
 For more info about who I am head to the [about me](About-me) page.
