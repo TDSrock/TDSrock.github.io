@@ -8,6 +8,4 @@ This page is mainly inteded to contain downlod links and information from the po
 
 [Competentie ontwikkel Plan](Docs/cop_Sjors_Gielen.pdf)
 
-[Competentie ontwikkel Plan](https://github.com/TDSrock/TDSrock.github.io/raw/master/Docs/cop_Sjors_Gielen.pdf)
-
-[Feedback forumlieren FYS](https://github.com/TDSrock/TDSrock.github.io/raw/master/Docs/FeedbackFormulieren%20Sjors%20Gielen%20FYS.pdf)
+[Feedback forumlieren FYS](Docs/FeedbackFormulieren%20Sjors%20Gielen%20FYS.pdf)
