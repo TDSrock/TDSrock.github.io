@@ -43,14 +43,16 @@ In-game before enemy spawn
 In-game during a wave
 
 # [](#header-1)Projects table
+
 | Project name                 | Is github project?(and link, if avaible)                               | Project status                   | Brief description                                                                                      |
 |:-----------------------------|:-----------------------------------------------------------------------|:---------------------------------|:-------------------------------------------------------------------------------------------------------|
 | Phy-sim-repo (class)         | [Yes](https://tdsrock.github.io/Phy-sim-repo/)                         | Completed                        | A repo used to share my Phy sim class work with classmates                                             |
-| Elementalers_TD (Processing) | [Yes](https://tdsrock.github.io/Elementalers_TD_Year1_SchoolProject/)  | Completed (Under re-production)  | Tower defense created as first project at HVA                                                          |
+| Elementalers_TD (Processing) | [Yes](https://tdsrock.github.io/Elementalers_TD_Year1_SchoolProject/)  | Completed, Under re-production   | Tower defense created as first project at HVA                                                          |
 | HvA_2017-2018_AI (class)     | [Yes](https://tdsrock.github.io/HvA_2017-2018_AI/)                     | In progress                      | Used to share code between myself and Nick Overweg for AI class                                        |
 | HvA_Year2 (Classes)          | [Yes](https://tdsrock.github.io/HvA_Year2/)                            | In progress                      | For use on all subjects in year two of my HBO education                                                |
 | Univeristy_work_2015-2016    | [Yes](https://tdsrock.github.io/Univeristy_work_2015-2016/)            | Completed                        | A repo containing all the work I put into my first year of uni                                         |
 | COG website                  | [Yes](https://tdsrock.github.io/COG_website/)                          | Completed and decrepit           | Website built for a Austrelian based community, the website is no longer activly being maintained/used |
-| Berzerk                      | No                                                                     | Completed                        | First university project. Remake of the old Berzerk arcade game in 3D (With custom render engine!)     |
+| Berzerk                      | No                                                                     | Completed                        | First university project. Remake of the old Berzerk arcade game in 3D, With custom render engine!      |
+| Elementalers TD Remake       | Yes, but private                                                       | In progress                      | A remake of the processing version. But will feature more towers & maps, atleast                       |
 
 More projects can always be added too this list.
