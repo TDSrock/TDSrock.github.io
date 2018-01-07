@@ -12,6 +12,8 @@ After 2 years of living like this in the US we returned to our home town in the 
 #### [](#header-4)Educational path
 Educationaly I first went into a school where I attempted HAVO/VWO. Where VWO is essentialy pre-university level. In my second year I failed but moved over to a private school, this school let me continue my path and even let me start in the third year. In year 5 I requirested of my principal that they would give me Informatics as a Class. Which I then followed and completed in 1 and a half years (normal is 3 or 4 years). Unfortunatly at the same time I failed 3 of my exams meaning I couldn't complete my VWO education. I was forced to do that year over. I approached my principal and informatics teacher if I could become a Teaching assistant as I would be at school anyways and this way I could earn a bit of money while helping out my already busy teacher.
 
+After completing VWO I went to the University of Utrecht and attempt IT:Game development there but I failed in my first year. So I went down one level and started doing a HBO at de Hoogeschool van Amsterdam. Where I currently am.
+
 #### [](#header-4)Profesional path
 So far my profesional path outside of educational institutes has been:
 *   Working for NBWM as a "intern".
