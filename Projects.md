@@ -9,11 +9,11 @@ On this page you will be able to find links to all my projects. For ease of use 
 # [](#header-1)Active projects
 #### [](#header-4)Summer Game Project
 
-A project I started with several friends from Univeristy and college. But even including some Australian friends.
+A project started with several friends from Univeristy and college. But even including some Australian friends.
 This project for now is mostly under-wraps.
 For now I will make clear that the project is intended to be built in Unity. The goal is to put down a 2d metroidvania game with strong inspirations from fighting games.
 
-The github repo is currently private and will remain so untill we are further into production that we can really start showing content.
+The github repo is currently private and will remain so untill we are far enough into production to show some real content.
 
 #### [](#header-4)Project Game Development
 A school project in which my team decided to create a horror game taking large inspiration from [PT](https://en.wikipedia.org/wiki/P.T._(video_game)) released on the playstation store several years ago.
