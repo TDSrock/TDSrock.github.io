@@ -4,7 +4,8 @@ layout: default
 
 ## [](#header-2)Downloads
 All avaible downloads _should_ be findable here.
-This excludes .zip and .tar.gz downloads aviable on github repo project pages and Question and answers pdf's found on certain github pages.
+
+This excludes .zip and .tar.gz downloads available on github repo project pages and question and answers pdf's found on certain github pages.
 
 | Download Title                      | Download link                                                                      | Source page                                                                                           |  Brief description         |
 |:------------------------------------|:-----------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:---------------------------|
