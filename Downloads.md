@@ -15,6 +15,24 @@ This excludes .zip and .tar.gz downloads available on github repo project pages 
 | My Resume                           | [Google drive](https://drive.google.com/open?id=1qessEzTuDIo6CRlwTwj2UhFIwRoo4kqC) | [About me](https://tdsrock.github.io/About-me)                                                        | My resume. Should always be the most recent version |
 | Competentie ontwikkel Plan          | [PDF](https://tdsrock.github.io/Docs/cop_Sjors_Gielen.pdf)                         | [Education](https://tdsrock.github.io/educ)                                                           | My compitance development plan (dutch file) |
 | Feedback forumlieren FYS            | [PDF](https://tdsrock.github.io/Docs/FeedbackFormulieren%20Sjors%20Gielen%20FYS.pdf) | [Education](https://tdsrock.github.io/educ)                                                         | Feedbackforms from teammates of FYS project (dutch file) |
+| Portfolio presnetatie verslag       | [PDF](Docs/Portfolio%20presentatie%20verslag.pdf)                                  | [Education](https://tdsrock.github.io/educ)                                                           | Report writtten for my portfolio presentation (dutch file) |
+| Studieplan                          | [Excel](Docs/studieplan-2017-2018-hbo-ict_SjorsGielen.xlsx          )              | [Education](https://tdsrock.github.io/educ)                                                           | Excell sheet of my studie plan (duth file) |
+| Job orietnation; Field research verslag | [PDF](Docs/Field%20Research.pdf)                                               | [Education](https://tdsrock.github.io/educ)                                                           | Job orientation end report (dutch file) |
+| STARR formulier GPA studentassitentie | [PDF](ocs/starr-formulier-hbo-ict-GPA.pdf)                                       | [Education](https://tdsrock.github.io/educ)                                                           | STARR form from my GPA student assistant time (dutch file) |
+| Reflectie verslag FYS               | [PDF](Docs/Reflectie%20verslag%2C%20her%2C%20SjorsGielen.pdf)                      | [Education](https://tdsrock.github.io/educ)                                                           | Reflection report of the FYS project, note that this is a team report but it includes indivdual components (dutch file) |
+| Research skills verslag             | [PDF](Docs/Account%20veiligheid%20vanuit%20het%20perspectief%20van%20de%20gebruiker_Sjors%20Gielen.pdf) | [Education](https://tdsrock.github.io/educ)                                      | Researck skills report written about security improvements users can perform (dutch file) |
 
+
+[Studieplan](Docs/studieplan-2017-2018-hbo-ict_SjorsGielen.xlsx)
+
+[Job orietnation; Field research verslag](Docs/Field%20Research.pdf)
+
+[STARR formulier GPA studentassitentie](Docs/starr-formulier-hbo-ict-GPA.pdf)
+
+[Reflectie verslag FYS](Docs/Reflectie%20verslag%2C%20her%2C%20SjorsGielen.pdf)
+
+#### [](#header-4) Research skills
+
+[Research skills verslag](Docs/Account%20veiligheid%20vanuit%20het%20perspectief%20van%20de%20gebruiker_Sjors%20Gielen.pdf)
 
 [back](./)
