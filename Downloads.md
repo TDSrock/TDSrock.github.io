@@ -12,7 +12,7 @@ This excludes .zip and .tar.gz downloads aviable on github repo project pages an
 | GunKnockBackGame builds Version0.2  | [Google drive](https://drive.google.com/open?id=12pVm9czWafH-riXYUVewahrFci0iRxuk) | [HvA_Year2](https://tdsrock.github.io/HvA_Year2/)                                                     | Builds for the GunKnockBack game. These builds have a number of known bugs in them |     
 | My Resume                           | [Google drive](https://drive.google.com/open?id=1qessEzTuDIo6CRlwTwj2UhFIwRoo4kqC) | [About me](https://tdsrock.github.io/About-me)                                                        | My resume. Should always be the most recent version |
 | Competentie ontwikkel Plan          | [PDF](https://tdsrock.github.io/Docs/cop_Sjors_Gielen.pdf)                         | [Education](https://tdsrock.github.io/educ)                                                           | My compitance development plan (dutch file) |
-| Feedback forumlieren FYS            | [PDF](https://tdsrock.github.io/Docs/FeedbackFormulieren%20Sjors%20Gielen%20FYS.pdf) | [Education](https://tdsrock.github.io/educ)                                                         | Feedbkacforms from teammates of FYS project (dutch file) |
+| Feedback forumlieren FYS            | [PDF](https://tdsrock.github.io/Docs/FeedbackFormulieren%20Sjors%20Gielen%20FYS.pdf) | [Education](https://tdsrock.github.io/educ)                                                         | Feedbackforms from teammates of FYS project (dutch file) |
 
 
 [back](./)
