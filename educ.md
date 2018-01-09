@@ -10,19 +10,19 @@ This page is mainly inteded to contain download links and information from the p
 
 [Feedback forumlieren FYS](Docs/FeedbackFormulieren%20Sjors%20Gielen%20FYS.pdf)
 
-[Portfolio presentatie verslag](Docs/FeedbackFormulieren Sjors Gielen FYS.pdf)
+[Portfolio presentatie verslag](Docs/Portfolio%20presentatie%20verslag.pdf)
 
 [Studieplan](Docs/studieplan-2017-2018-hbo-ict_SjorsGielen.xlsx)
 
-[Job orietnation; Field research verslag](Docs/)
+[Job orietnation; Field research verslag](Docs/Field%20Research.pdf)
 
-[STARR formulier GPA studentassitentie](Docs/)
+[STARR formulier GPA studentassitentie](Docs/starr-formulier-hbo-ict-GPA.pdf)
 
-[Reflectie verslag FYS](Docs/)
+[Reflectie verslag FYS](Docs/Reflectie%20verslag%2C%20her%2C%20SjorsGielen.pdf)
 
 #### [](#header-4) Research skills
 
-[Research skills verslag](Docs/)
+[Research skills verslag](Docs/Account%20veiligheid%20vanuit%20het%20perspectief%20van%20de%20gebruiker_Sjors%20Gielen.pdf)
 
 Research skills feedback forms below:
 
