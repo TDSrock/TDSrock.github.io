@@ -22,17 +22,4 @@ This excludes .zip and .tar.gz downloads available on github repo project pages 
 | Reflectie verslag FYS               | [PDF](Docs/Reflectie%20verslag%2C%20her%2C%20SjorsGielen.pdf)                      | [Education](https://tdsrock.github.io/educ)                                                           | Reflection report of the FYS project, note that this is a team report but it includes indivdual components (dutch file) |
 | Research skills verslag             | [PDF](Docs/Account%20veiligheid%20vanuit%20het%20perspectief%20van%20de%20gebruiker_Sjors%20Gielen.pdf) | [Education](https://tdsrock.github.io/educ)                                      | Researck skills report written about security improvements users can perform (dutch file) |
 
-
-[Studieplan](Docs/studieplan-2017-2018-hbo-ict_SjorsGielen.xlsx)
-
-[Job orietnation; Field research verslag](Docs/Field%20Research.pdf)
-
-[STARR formulier GPA studentassitentie](Docs/starr-formulier-hbo-ict-GPA.pdf)
-
-[Reflectie verslag FYS](Docs/Reflectie%20verslag%2C%20her%2C%20SjorsGielen.pdf)
-
-#### [](#header-4) Research skills
-
-[Research skills verslag](Docs/Account%20veiligheid%20vanuit%20het%20perspectief%20van%20de%20gebruiker_Sjors%20Gielen.pdf)
-
 [back](./)
